@@ -1,5 +1,10 @@
 # fajardwiharjo_moc2_pemantau_listrik
 
+## figma design
+
+https://www.figma.com/design/XRdrRbqLjwTJSP3MFXLvIo/MoC2--Fajar---test-design?node-id=0-1&t=OUy9pWWxb6WupKKv-1
+
+
 A new Flutter project.
 
 ## Getting Started
